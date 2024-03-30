@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Feliz Páscoa!</title>
+<style>
+  body {
+    font-family: monospace;
+    text-align: center;
+    margin-top: 50px;
+  }
+  .mensagem {
+    white-space: pre;
+    font-size: 16px;
+  }
+</style>
+</head>
+<body>
+<div class="mensagem">
+  Eu te amo, feliz Páscoa meu tudo!<br><br>
+  (\(\ <br>
+  ( -.-)<br>
+  o_(")(")
+</div>
+</body>
+</html>
